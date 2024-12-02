@@ -1,0 +1,14 @@
+Int a,b;
+Bool x;
+Begin
+	a = 1;
+	b = 4;
+	while (b>a)
+		a = a + 2;
+		b = b + 1;
+	Endwhile;
+	Print b;
+	if (x) then
+		Print a;
+	Endif
+End

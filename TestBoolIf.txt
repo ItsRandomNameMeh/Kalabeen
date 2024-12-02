@@ -1,0 +1,10 @@
+Int a,b;
+Bool c;
+Begin
+	c = True;
+	If (c) then
+		a = 20;
+		b = 130-a;
+	Endif;
+	print b;
+End

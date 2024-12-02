@@ -1,0 +1,8 @@
+Int a,b;
+Bool c;
+Begin
+	For (a = 1 To a < 10) Do
+		Print a;
+		a = a+1;
+	EndFor;
+End
