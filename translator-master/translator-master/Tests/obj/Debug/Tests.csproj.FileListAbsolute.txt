@@ -1,0 +1,10 @@
+D:\translator-master\translator-master\Tests\bin\Debug\Tests.exe.config
+D:\translator-master\translator-master\Tests\bin\Debug\Tests.exe
+D:\translator-master\translator-master\Tests\bin\Debug\Tests.pdb
+D:\translator-master\translator-master\Tests\bin\Debug\Lexical_Analyzer_Libary.dll
+D:\translator-master\translator-master\Tests\bin\Debug\Lexical_Analyzer_Libary.pdb
+D:\translator-master\translator-master\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+D:\translator-master\translator-master\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+D:\translator-master\translator-master\Tests\obj\Debug\Tests.csproj.Up2Date
+D:\translator-master\translator-master\Tests\obj\Debug\Tests.exe
+D:\translator-master\translator-master\Tests\obj\Debug\Tests.pdb

@@ -1,0 +1,6 @@
+D:\translator-master\translator-master\Lexical_Analyzer_Libary\bin\Debug\Lexical_Analyzer_Libary.dll
+D:\translator-master\translator-master\Lexical_Analyzer_Libary\bin\Debug\Lexical_Analyzer_Libary.pdb
+D:\translator-master\translator-master\Lexical_Analyzer_Libary\obj\Debug\Lexical_Analyzer_Libary.csproj.AssemblyReference.cache
+D:\translator-master\translator-master\Lexical_Analyzer_Libary\obj\Debug\Lexical_Analyzer_Libary.csproj.CoreCompileInputs.cache
+D:\translator-master\translator-master\Lexical_Analyzer_Libary\obj\Debug\Lexical_Analyzer_Libary.dll
+D:\translator-master\translator-master\Lexical_Analyzer_Libary\obj\Debug\Lexical_Analyzer_Libary.pdb
