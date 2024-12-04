@@ -1,1 +1,1 @@
-# blyat
+# Normalno delay normalno budet
